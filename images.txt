@@ -1,1 +1,1 @@
-dreamacro/clash
+tumgis/ctb-quantized-mesh:latest
