@@ -1,1 +1,1 @@
-tumgis/ctb-quantized-mesh:latest
+koishijs/koishi
