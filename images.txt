@@ -1,1 +1,1 @@
-centralx/clash
+centralx/clash:1.18.0
