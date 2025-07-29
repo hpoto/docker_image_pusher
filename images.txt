@@ -1,6 +1,5 @@
 bitnami/minio:2022.10.29-debian-11-r0
 bitnami/minio-client:2022.10.29-debian-11-r0
-bitnami/bitnami-shell:11-debian-11-r46
 bitnami/mysql:8.0.31-debian-11-r0
 bitnami/bitnami-shell:11-debian-11-r40
 bitnami/mysqld-exporter:0.14.0-debian-11-r46
