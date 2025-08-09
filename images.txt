@@ -1,1 +1,2 @@
 liuchuan0001/xinference-vllm:latest
+lujin525/xinference:r36.2.0-py3
