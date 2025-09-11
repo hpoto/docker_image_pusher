@@ -1,1 +1,1 @@
-openeulertest/vllm:0.9.0-oe2403lts-aarch64
+ghcr.io/gchq/cyberchef:latest
